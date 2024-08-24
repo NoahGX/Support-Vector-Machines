@@ -29,4 +29,4 @@ The notebook is pre-configured to use synthetic data generated within the notebo
 
 ## Notes
 - Make sure all prerequisites are installed as instructed in the notebook.
-- This notebook is basic in order to demonstrate the workings of SVM and requires modifications for production use.
+- This notebook is basic in order to demonstrate the workings of support vector machines and requires modifications for production use.
